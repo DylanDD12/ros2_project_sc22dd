@@ -1,4 +1,0 @@
-[console_scripts]
-blue_detector = ros2_project_sc22dd.blue_detector:main
-motion_planner = ros2_project_sc22dd.motion_planner:main
-
